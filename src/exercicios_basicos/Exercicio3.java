@@ -1,3 +1,5 @@
+package exercicios_basicos;
+
 public class Exercicio3 {
     public static void main(String[] args) {
         double saldo = 1565;

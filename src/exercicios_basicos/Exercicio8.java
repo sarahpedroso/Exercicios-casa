@@ -1,4 +1,4 @@
-/*
+package exercicios_basicos;/*
 bem-vindo a pizzaria! o usuario tera direito a escolher uma de nossas 6 pizzas.
 segue o menu abaixo:
 1. calabresa / 2. frango com catupiry / 3. quatro queijos / 4. portuguesa / 5. chocolate / 6. morango

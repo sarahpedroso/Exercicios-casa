@@ -4,21 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e631e7-f382-46c0-8c22-fe2d5af57b1f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-casa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicio8.java" afterDir="false" />
+    <list default="true" id="55e631e7-f382-46c0-8c22-fe2d5af57b1f" name="Changes" comment="Meus exercicios de java basico.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_ifElse_switchCase/Exercicio9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicios_basicos/Exercicio8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +51,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675698181369</updated>
     </task>
+    <task id="LOCAL-00001" summary="Meus exercicios de java basico.">
+      <created>1675729249193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675729249193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Meus exercicios de java basico." />
+    <option name="LAST_COMMIT_MESSAGE" value="Meus exercicios de java basico." />
   </component>
 </project>
