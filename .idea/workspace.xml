@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e631e7-f382-46c0-8c22-fe2d5af57b1f" name="Changes" comment="Meus exercicios de java basico.">
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao/Exercicio31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicios_repeticao_do_while/Exercicio32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675875473361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Meus exercicios de java basico.">
+      <created>1675974218265</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974218265</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
